@@ -188,4 +188,3 @@ and we will call this function from `_create_nodes_from_vertices()` in `cr2lanel
 This will fix the Latitude and Longitude issue
 <br />
 
-"# Lanelet_conversion" 
